@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Todo Extension",
+  "version": "0.1.0",
+  "description": "Basic Chrome Extension popup served from static Next export",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["storage"]
+}
